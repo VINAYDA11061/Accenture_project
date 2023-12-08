@@ -1,6 +1,6 @@
 # Accenture_ Project_forage
 
-[Certificate].()
+[Certificate].(https://github.com/VINAYDA11061/Accenture_forage/blob/main/certificate.pdf)
 #### My Role as a Data Analyst.
 I recently participated in Accenture’s Data Analytics & Visualization job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to participate in a typical project team at Accenture, and to use Excel and data analytics and visualization skills in a realistic context.
 •	Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
