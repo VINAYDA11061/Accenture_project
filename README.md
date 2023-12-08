@@ -33,7 +33,7 @@ to identify which datasets will be required to answer your business question - w
               •	changing the data type of some values within a column, and
               •	removing columns which are not relevant to this task.
 **Finally we will have cleaned data set :**
- [Cleaned_data]()
+ [Cleaned_data](https://github.com/VINAYDA11061/Accenture_project/blob/main/cleaned%20data.zip)
 
 ### Data Modelling:
 
