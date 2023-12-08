@@ -21,7 +21,7 @@ Client industry: Social media & content creation.
               • Recommendations for a successful IPO 
               • An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
 #### Task 2 - Data Cleaning & preprocessing.
-So, the first step is to use this [data model]() 
+So, the first step is to use this [data model[]()](https://github.com/VINAYDA11061/Accenture_forage/blob/main/Data%20model.pdf) 
 to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
  - After Analysis we got data sets needed to complete analysis:
  >- Reaction Score(score is used to quantified the popularity)
