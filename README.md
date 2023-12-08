@@ -10,8 +10,10 @@ I recently participated in Accenture’s Data Analytics & Visualization job simu
 ### Tasks performed.
 ### Project Details.
 #### Client name: Social Buzz 
+
 Client industry: Social media & content creation.
-Breif :[Social Buzz](https://github.com/VINAYDA11061/Accenture_forage/blob/main/Client%20Brief.pdf)
+[Social Buzz](https://github.com/VINAYDA11061/Accenture_forage/blob/main/Client%20Brief.pdf)
+
 #### Task 1 - Understanding the Business requirements(Requirement gathering).
               To start our engagement with Social Buzz, we are running a 3 month initial project in order to prove to them that we are the best firm to work with. They are expecting the following: 
               • An audit of their big data practice 
