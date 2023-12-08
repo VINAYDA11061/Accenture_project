@@ -55,4 +55,4 @@ PowerPoint presentation that reports on the client’s content performance and d
   >- Pie Chart : Popularity Percentage share amoung Top 5 Categories .
   >- Bar Chart : sum of Score for category.
   
- - Powerpoint Presentation : [PPT]()
+ - Powerpoint Presentation : [PPT](https://github.com/VINAYDA11061/Accenture_forage/blob/main/presentation.pptx)
