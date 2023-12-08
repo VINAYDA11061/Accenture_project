@@ -49,9 +49,8 @@ to identify which datasets will be required to answer your business question - w
  ### Cleaned Data set:
  So, the cleaned data set after data modelling & data cleaning :
 
-#### Task 3 - Data Visualization & Storytelling.
-              
-              PowerPoint presentation that reports on the client’s content performance and deliver the insights of analysis.
+#### Task 3 - Data Visualization & Storytelling
+PowerPoint presentation that reports on the client’s content performance and deliver the insights of analysis.
  **Charts Created :**
   >- Pie Chart : Popularity Percentage share amoung Top 5 Categories .
   >- Bar Chart : sum of Score for category.
