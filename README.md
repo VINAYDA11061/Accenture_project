@@ -6,12 +6,15 @@ I recently participated in Accenture’s Data Analytics & Visualization job simu
 •	Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
 •	Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
 •	Prepared a PowerPoint deck to communicate key insights for the client and internal stakeholders.
+### Skills :  
+COMMUNICATION DATA ANALYSIS DATA MODELING  DATA UNDERSTANDING  DATA VISUALIZATION  PRESENTATIONS  PROJECT PLANNING  STORYTELLING  STRATEGY  TEAMWORK
 
 ### Tasks performed.
 
 #### Task 1 - Understanding the Business requirements(Requirement gathering).
 #### Project Details.
 ##### Client name: Social Buzz 
+
 
 Client industry: Social media & content creation.
 [Social Buzz](https://github.com/VINAYDA11061/Accenture_forage/blob/main/Client%20Brief.pdf)
