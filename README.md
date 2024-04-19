@@ -55,3 +55,7 @@ PowerPoint presentation that reports on the client’s content performance and d
           • Bar Chart : sum of Score for category.
   
  - Powerpoint Presentation : [PPT](https://github.com/VINAYDA11061/Accenture_forage/blob/main/presentation.pptx)
+
+   ### Certification earned
+   ![Accenture](https://github.com/VINAYDA11061/Accenture_project/assets/125648329/788e80c6-50b4-45f0-b561-48d37996303b)
+
